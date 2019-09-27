@@ -1,0 +1,7 @@
+34  insertFront
+65  insertFront
+67  insertFront
+2  insertRear
+1  insertRear
+23  insertAnyPosition
+34  insertAnyPosition
